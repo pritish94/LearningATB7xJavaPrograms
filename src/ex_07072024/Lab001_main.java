@@ -1,9 +1,9 @@
 package ex_07072024;
 
-public class Lab001 {
+public class Lab001_main {
 
     //constructor
-    public Lab001(){
+    public Lab001_main(){
 
     }
 
