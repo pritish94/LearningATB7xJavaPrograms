@@ -1,6 +1,6 @@
 package ex_07072024;
 
-public class Lab_008_multiple_main {
+public class Lab008_multiple_main {
 
     //public static void main(String[] args) {
     public static void main(String args[]) {
