@@ -1,7 +1,5 @@
 package aug.ex_04082024;
 
-import July.ex_07282024.Bank;
-
 import java.util.Scanner;
 
 public class Lab170 {
